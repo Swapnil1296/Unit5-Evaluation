@@ -1,0 +1,39 @@
+.App {
+  border: 1px solid red;
+  
+}
+.banner{
+  display: flex;
+  justify-content: space-around;
+}
+.addScore {
+  display: flex;
+  flex-direction: column;
+  
+}
+.addScore1{
+  width: 100px;
+  margin-top: 10px;
+}
+.addScore4 {
+  width: 100px;
+  margin-top: 10px;
+}
+.addScore6 {
+  width: 100px;
+  margin-top: 10px;
+}
+.addWicket{
+  width: 200px;
+  border: 1px solid gray;
+  margin-top: 10px;
+}
+.addBall{
+  width: 200px;
+  border: 1px solid gray;
+  margin-top: 10px;
+}
+.status{
+  color: blueviolet;
+  text-align: center;
+}
