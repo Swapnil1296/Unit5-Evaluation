@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "titel": "learn React"
+    },
+    {
+      "id": 2,
+      "titel": "learn java"
+    },
+    {
+      "id": 3,
+      "titel": "eat pizza"
+    },
+    {
+      "titel": "have tea",
+      "status": false,
+      "id": 4
+    },
+    {
+      "titel": "go for walk",
+      "status": false,
+      "id": 5
+    },
+    {
+      "titel": "run fast",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
